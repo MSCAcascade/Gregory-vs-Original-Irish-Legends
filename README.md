@@ -4,6 +4,7 @@ This repository contains the code used to analyze Lady Gregory’s adaptations o
 ### Branch Contents
 - **notebook** – Jupyter Python coding notebook for various analyses
 - **results** – Output files and visualizations
+- **data** - Original text files, Lady Gregory's text files, and a metadata spreadsheet linking the two
 
 ### Analyses Performed
 - **Word Frequency & Sentiment Analysis** – Examines shifts in tone and emphasis
